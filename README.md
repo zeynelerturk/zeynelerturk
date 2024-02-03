@@ -2,6 +2,8 @@
 
 
 **zeynelerturk/zeynelerturk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 TR-Merhaba, Ben Zeynel Ertürk, egitim hayatımı bilgisayar, teknoloji ve yazılım alanında tamamladıktan sonra alanımda 5 yıllık  bir calışma deneyimine sahip oldum. 
 Yazılım geliştirme tutkusu ve merakı olan biri oldugum için  Bilgisayar bilimleri, açık kaynaklı projeler ve yeni teknolojilerle ilgileniyorum.
 
